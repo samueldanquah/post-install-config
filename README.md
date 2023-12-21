@@ -47,12 +47,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Adding Agents (Workers):</h3>
 <ul>
-    <li>Added agents "Jane" and "John" via the Admin Panel under Agents.</li>
+    <li>Added agents "Jane Hami" and "John Dorian" via the Admin Panel under Agents.</li>
 </ul>
 
 <h3>Adding Users (Customers):</h3>
 <ul>
-    <li>Added users "Karen" and "Ken" in the Agent Panel under Users.</li>
+    <li>Added users "Kamile James" and "Kenneth Bagrauh" in the Agent Panel under Users.</li>
 </ul>
 
 <h3>Configuring Service Level Agreements (SLA):</h3>
@@ -65,7 +65,6 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>Created various help topics including "Business Critical Outage" and "Personal Computer Issues" in the Admin Panel.</li>
 </ul>
 
-<a href="https://vimeo.com/896947998?share=copy">
-    <h3>Click here to watch the video</h3>
-</a>
+
+<a href="https://vimeo.com/896947998?share=copy">Click here to watch the video</a>
 <!-- Footer or additional notes -->
