@@ -65,5 +65,7 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>Created various help topics including "Business Critical Outage" and "Personal Computer Issues" in the Admin Panel.</li>
 </ul>
 
-
+<a href="https://vimeo.com/896947998?share=copy">
+    <h3>Click here to watch the video</h3>
+</a>
 <!-- Footer or additional notes -->
